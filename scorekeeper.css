@@ -1,0 +1,5 @@
+.winner {
+	color:green;
+	border-bottom: 5px solid green;
+	text-shadow: 2px 2px silver;
+}
